@@ -3,8 +3,6 @@
 this is still very much work in progress,
 the aim is to provide a simple python interface to the MSF Api.
 
-https://github.com/yosiz/msf_api
-
 ## Usage
 
 ```
@@ -39,3 +37,8 @@ material_cost = api.get_gear_req("Nebula",10,15)
 
 add the rest of the MSF API parts
 add more higher level functions for accomplishing advanced logic
+
+## Links
+
+https://pypi.org/project/msf-api/0.0.1/
+https://github.com/yosiz/msf_api
